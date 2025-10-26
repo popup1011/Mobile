@@ -124,7 +124,7 @@ fun MainScreen() {
             verticalArrangement = Arrangement.Center,
             horizontalAlignment = Alignment.CenterHorizontally
         ) {
-            Text("She's name is ")
+            Text("She's name is pea")
             Image(
                 painter = painterResource(id = R.drawable.compose),
                 contentDescription = "null",
