@@ -28,4 +28,11 @@
 </p>
 <hr>
 
+<h2>📘 6주차: 버블게임 실습</h2>
+<p>다이얼로그와 알림에 대해 배웠습니다.</p>
+<p align="center">
+  <img src="https://github.com/popup1011/Mobile/blob/main/practice_img/6%EC%A3%BC%EC%B0%A8_%EB%B2%84%EB%B8%94_%EC%8B%A4%EC%8A%B5.png?raw=true" width="175">
+</p>
+<hr>
+
 
